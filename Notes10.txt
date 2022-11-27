@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 
 Hilal's code
 Meryem's code
 
+=======
+Meryem's code
+>>>>>>> e3d74ebfd24e1b3ec377b103e1b383a5a7c921f4
